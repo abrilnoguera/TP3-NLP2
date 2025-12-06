@@ -1,0 +1,37 @@
+{
+  "nombre": "Melanie Robinson",
+  "titulo": "Customer Service Representative",
+  "profesion": "Customer Service Representative",
+  "titulo_maximo_obtenido": "Bachelor of Arts in Marketing",
+  "estudios_completados": "Bachelor of Arts: Marketing",
+  "ubicacion": "Chicago, USA",
+  "email": "melanie.robinson@gmail.com.au",
+  "telefono": "+1 (970) 333-3833",
+  "seniority": "Semi Senior",
+  "experiencia_años": 4,
+  "skills_clave": [
+    "Customer Service",
+    "International Sales Support",
+    "Strategic Sales",
+    "Communication Skills",
+    "Stock Records Management",
+    "Quality Assurance",
+    "Call Center",
+    "Problem Solving"
+  ],
+  "ultimos_trabajos": [
+    {
+      "empresa": "BATS Global Markets Inc.",
+      "cargo": "Customer Service Representative",
+      "periodo": "04/2017 - 09/2018",
+      "ubicacion": "Chicago"
+    },
+    {
+      "empresa": "Foodspotting Inc.",
+      "cargo": "Customer Service Representative",
+      "periodo": "04/2015 - 09/2016",
+      "ubicacion": "Chicago"
+    }
+  ],
+  "descripcion": "Qualified Customer Service Representative with over 4 years in fast-paced customer service and call center environments"
+}

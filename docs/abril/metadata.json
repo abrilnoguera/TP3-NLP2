@@ -1,0 +1,30 @@
+{
+  "nombre": "Abril Noguera",
+  "titulo": "Científica de Datos",
+  "profesion": "Científica de Datos",
+  "titulo_maximo_obtenido": "Licenciatura en Ciencia de Datos",
+  "estudios_actuales": "Máster en Inteligencia Artificial",
+  "estudios_completados": "Título de grado en Ciencia de Datos",
+  "ubicacion": "Buenos Aires, Argentina",
+  "fecha_nacimiento": "2001-06-04",
+  "email": "abrilnoguera@gmail.com",
+  "linkedin": "linkedin.com/in/abrilnoguera",
+  "nivel_ingles": "Avanzado (C1 - business fluido)",
+  "seniority": "Semi Senior / Pleno",
+  "experiencia_años": 4,
+  "skills_clave": [
+    "Machine Learning",
+    "Deep Learning",
+    "Recommender Systems",
+    "NLP",
+    "Computer Vision",
+    "MLOps",
+    "PySpark",
+    "Databricks",
+    "MLflow",
+    "Python",
+    "SQL",
+    "PowerBI",
+    "Docker"
+  ]
+}

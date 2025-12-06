@@ -1,0 +1,37 @@
+{
+  "nombre": "Anthony Davies",
+  "titulo": "Senior Web Developer",
+  "profesion": "Web Developer",
+  "titulo_maximo_obtenido": "Bachelor of Science in Computer Information Systems",
+  "estudios_completados": "Bachelor of Science: Computer Information Systems",
+  "ubicacion": "New York, USA",
+  "email": "anthony.davies@mail.com",
+  "telefono": "+1 (970) 888-3866",
+  "linkedin": "https://www.coolfreecv.com",
+  "seniority": "Senior",
+  "experiencia_años": 5,
+  "skills_clave": [
+    "JavaScript",
+    "HTML5",
+    "PHP OOP",
+    "CSS",
+    "SQL",
+    "MySQL",
+    "Project Management",
+    "Front End Development",
+    "Zend Framework",
+    "Codeigniter",
+    "Symfony"
+  ],
+  "ultimos_trabajos": [
+    {
+      "empresa": "Luna Web Design",
+      "cargo": "Web Developer",
+      "periodo": "09/2019 - 05/2022",
+      "ubicacion": "New York"
+    }
+  ],
+  "certificaciones": [
+    "PHP Framework (Zend, Codeigniter, Symfony)"
+  ]
+}

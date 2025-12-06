@@ -1,0 +1,42 @@
+{
+  "nombre": "Olivia Richardson",
+  "titulo": "Head Waiter",
+  "profesion": "Restaurant Service Professional",
+  "titulo_maximo_obtenido": "Bachelor of Science: Cook",
+  "estudios_completados": "Bachelor of Science: Cook",
+  "ubicacion": "New York, USA",
+  "email": "olivia.richardson@mail.com",
+  "telefono": "+1 (970) 333-3833",
+  "linkedin": "https://www.coolfreecv.com",
+  "seniority": "Semi Senior",
+  "experiencia_años": 4,
+  "skills_clave": [
+    "Customer Service",
+    "Italian Cuisine",
+    "Wine Service",
+    "Food Service",
+    "Team Management",
+    "Sales Techniques",
+    "Guest Relations",
+    "Food Handling"
+  ],
+  "ultimos_trabajos": [
+    {
+      "empresa": "Momo Restaurant",
+      "cargo": "Head Waiter",
+      "periodo": "09/2017 - 05/2019",
+      "ubicacion": "New York"
+    },
+    {
+      "empresa": "Si Italian Restaurant",
+      "cargo": "Waitress",
+      "periodo": "09/2015 - 05/2017",
+      "ubicacion": "New York"
+    }
+  ],
+  "hobbies": [
+    "Cooking",
+    "Italian culture"
+  ],
+  "descripcion": "Experienced Server bringing enthusiasm, dedication and an exceptional work ethic. Trained in customer service with knowledge of Italian cuisine."
+}

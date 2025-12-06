@@ -1,0 +1,42 @@
+{
+  "nombre": "Susan Williams",
+  "titulo": "Store Manager",
+  "profesion": "Store Manager - Automotive Sales",
+  "titulo_maximo_obtenido": "Bachelor of Science: Automotive Technology",
+  "estudios_completados": "Bachelor of Science: Automotive Technology",
+  "ubicacion": "New York, USA",
+  "email": "susan.williams@coolfreecv.com",
+  "telefono": "+1 (970) 333-3833",
+  "seniority": "Senior",
+  "experiencia_años": 8,
+  "skills_clave": [
+    "Store Management",
+    "Automotive Sales",
+    "Team Leadership",
+    "Business Development",
+    "Revenue Generation",
+    "Marketing",
+    "Operations Management",
+    "Staff Training",
+    "Customer Service",
+    "Inventory Management"
+  ],
+  "ultimos_trabajos": [
+    {
+      "empresa": "Luxury Car Center",
+      "cargo": "Store Manager",
+      "periodo": "09/2015 - 05/2019",
+      "ubicacion": "New York"
+    },
+    {
+      "empresa": "Japan Car Center",
+      "cargo": "Store Manager",
+      "periodo": "09/2014 - 09/2015",
+      "ubicacion": "New York"
+    }
+  ],
+  "hobbies": [
+    "Playing chess"
+  ],
+  "descripcion": "Store Manager equipped with extensive experience in automotive sales management. Employs excellent leadership skills and multi-tasking strengths. Demonstrated ability to improve store operations, increase top line sales, and reduce costs."
+}

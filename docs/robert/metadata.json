@@ -1,0 +1,50 @@
+{
+  "nombre": "Robert Richardson",
+  "titulo": "Software Engineer",
+  "profesion": "Software Engineer",
+  "titulo_maximo_obtenido": "Bachelor of Science in Computer Science",
+  "estudios_completados": "Bachelor of Science in Computer Science",
+  "ubicacion": "Anytown, USA",
+  "email": "robert.richardson@gmail.com",
+  "telefono": "+1(970) 456 566 719",
+  "linkedin": "www.linkedin.com/robert.richardson",
+  "seniority": "Senior",
+  "experiencia_años": 5,
+  "skills_clave": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Node.js",
+    "SQL",
+    "MongoDB",
+    "Spring Boot",
+    "Express.js",
+    "Git",
+    "Docker",
+    "Jenkins",
+    "Agile/Scrum",
+    "Full-Stack Development"
+  ],
+  "ultimos_trabajos": [
+    {
+      "empresa": "XYZ Tech",
+      "cargo": "Software Engineer",
+      "periodo": "January 2021 - Present",
+      "ubicacion": "Anytown, USA"
+    },
+    {
+      "empresa": "ABC Solutions",
+      "cargo": "Junior Software Engineer",
+      "periodo": "May 2019 - December 2020",
+      "ubicacion": "Anytown, USA"
+    }
+  ],
+  "certificaciones": [
+    "Certified Java Developer (Oracle) - 2020",
+    "AWS Certified Developer – Associate - 2019"
+  ],
+  "descripcion": "Results-driven Software Engineer with 5 years of experience in designing, developing, and maintaining software applications. Adept at full-stack development with strong focus on delivering high-quality code and scalable solutions."
+}
